@@ -6,7 +6,8 @@
 <a href="https://www.linkedin.com/in/khushboo-agrawal-a740701b0/"><img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a></p>
   
   <img src="http://gif.co/qJZq.gif">
-  <img src="https://media.giphy.com/media/JVGLHEuzbVviw/giphy.gif" alt="funny GIF" width="100%">
+  <img src="https://tenor.com/bdggH.gif" alt="funny GIF" width="100%">
+  
  
   <p>I enjoy spending :green_apple: my time working on passion projects, and exploring :telescope:  new technologies. <br> 
     I'm a strong advocate of  :zap: tech for social good.</p> 
