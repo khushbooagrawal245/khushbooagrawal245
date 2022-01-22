@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Khushboo Agrawal</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khushbooagrawal245&label=Profile%20views&color=0e75b6&style=flat" alt="khushbooagrawal245" /> </p>
 
-- 🌱 I’m currently learning **Data Structures and Algorithm, Data Science**
+- 🌱 I’m currently learning **Data Structures and Algorithm, Data Science. **
 
 - 👨‍💻 All of my projects are available at [https://github.com/khushbooagrawal245](https://github.com/khushbooagrawal245)
 
