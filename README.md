@@ -7,7 +7,7 @@
   
 
  
-  <img src="https://i.pinimg.com/originals/5b/ba/39/5bba3962f78bac3777d220c570d5b178.gif" width="400px" height= "200px">
+  <img src="https://i.pinimg.com/originals/5b/ba/39/5bba3962f78bac3777d220c570d5b178.gif" width="250px" height= "200px">
   
  
   <p>I enjoy spending :green_apple: my time working on passion projects, and exploring :telescope:  new technologies. <br> 
