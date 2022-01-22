@@ -4,9 +4,8 @@
     Hi there, I'm Khushboo Agrawal 👋 </h2>
 <p> <a href="https://twitter.com/Khushboo0406"><img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/khushboo-agrawal-a740701b0/"><img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a></p>
-
   
-<div class="tenor-gif-embed" data-postid="15514789" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/budding-pop-cute-adorable-blush-leaf-gif-15514789">Budding Pop Cute Sticker</a>from <a href="https://tenor.com/search/budding+pop-stickers">Budding Pop Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+  <img src="http://gif.co/qJZq.gif">
  
   <p>I enjoy spending :green_apple: my time working on passion projects, and exploring :telescope:  new technologies. <br> 
     I'm a strong advocate of  :zap: tech for social good.</p> 
@@ -15,7 +14,7 @@
 ---
 -   🌱 I’m currently learning Web Development, Machine Learning and Automation.
 -   👯 I’m looking to collaborate on open source projects.
--   💬 Ask me about Java, Python, DSA and .
+-   💬 Ask me about Java, Python, DSA and Data Science.
 -   📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/khushboo-agrawal-a740701b0/), [Twitter](https://twitter.com/Khushboo0406)
 -   😄 Pronouns: She/her
 
