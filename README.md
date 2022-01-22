@@ -7,6 +7,7 @@
   
   <img src="http://gif.co/qJZq.gif">
   <img src="https://tenor.com/bdggH.gif" alt="funny GIF" width="100%">
+  <img src="https://i.pinimg.com/originals/5b/ba/39/5bba3962f78bac3777d220c570d5b178.gif">
   
  
   <p>I enjoy spending :green_apple: my time working on passion projects, and exploring :telescope:  new technologies. <br> 
