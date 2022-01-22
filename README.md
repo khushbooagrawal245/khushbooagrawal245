@@ -20,7 +20,6 @@
 -   😄 Pronouns: She/her
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=shalinikumari50&count_private=true&theme=dark&show_icons=true&hide=stars&include_all_commits=true">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
