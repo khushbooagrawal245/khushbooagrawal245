@@ -5,7 +5,7 @@
 <p> <a href="https://twitter.com/Khushboo0406"><img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/khushboo-agrawal-a740701b0/"><img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a></p>
   
-  <img src="http://gif.co/qJZq.gif">
+
  
   <img src="https://i.pinimg.com/originals/5b/ba/39/5bba3962f78bac3777d220c570d5b178.gif" width="200px" height= "200px">
   
