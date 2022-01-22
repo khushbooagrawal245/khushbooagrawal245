@@ -6,7 +6,7 @@
 <a href="https://www.linkedin.com/in/khushboo-agrawal-a740701b0/"><img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a></p>
 
   
-<img src=https://tenor.com/view/hello-gif-19947459">
+<img src="https://tenor.com/view/hello-gif-19947459">
  
   <p>I enjoy spending :green_apple: my time working on passion projects, and exploring :telescope:  new technologies. <br> 
     I'm a strong advocate of  :zap: tech for social good.</p> 
@@ -16,7 +16,7 @@
 -   🌱 I’m currently learning Web Development, Machine Learning and Automation.
 -   👯 I’m looking to collaborate on open source projects.
 -   💬 Ask me about Java, Python, React, JavaScript, DSA and Git.
--   📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/khushboo-agrawal-a740701b0/), [Twitter]https://twitter.com/Khushboo0406)
+-   📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/khushboo-agrawal-a740701b0/), [Twitter](https://twitter.com/Khushboo0406)
 -   😄 Pronouns: She/her
 
 
