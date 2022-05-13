@@ -27,7 +27,7 @@
 <p align="left">
 
 <a href="https://www.hackerrank.com/khushboo_agrawa3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="khushboo_agrawa3" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/khushboo_agrwl__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="khushboo_agrwl__" height="30" width="40" /></a>
+<a href="https://leetcode.com/_191520011/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="khushboo_agrwl__" height="30" width="40" /></a>
   <a href="https://auth.geeksforgeeks.org/user/khushbooagrawalcsda19/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="khushboo_agrwl__" height="30" width="40" /></a>
 </p>
 
